@@ -1,6 +1,6 @@
 
-**Exploring the relation between obesity and types of venues by in selected counties in US**
-Coursera Capstone
+# **Exploring the relation between obesity and types of venues by in selected counties in US**, 
+Coursera Capstone, 
 C. Antonescu
 
 **Introduction:**
